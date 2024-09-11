@@ -1,1 +1,5 @@
-# ITMD541-A20549971
+# ITMD541-
+## Divya Garigipati
+## A20549971
+## dgarigipati@hawk.iit.edu
+
